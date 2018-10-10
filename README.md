@@ -1,4 +1,6 @@
 # Masujima Ryohei
+I live in Shibuya, Tokyo, Japan.
+
 ## Career history
 I am work for a company called G2 Studios Inc. as a front-end engineer.
 
