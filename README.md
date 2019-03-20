@@ -1,15 +1,21 @@
-# Masujima Ryohei
-I live in Shibuya, Tokyo, Japan.
+## Twitter
+[@MasujimaRyohei](https://twitter.com/MasujimaRyohei)
 
-## Career history
-I am work for a company called G2 Studios Inc. as a front-end engineer.
+## Facebook
+[MasujimaRyohei](https://facebook.com/MasujimaRyohei)
 
-## Hoby
-- Music.
-- Ball sports, especially basket ball.
-- Human beatbox.
+## SlideShere
+[RyoheiMasujima](https://www.slideshare.net/RyoheiMasujima)
 
-## Contact
-- [Twitter](https://twitter.com/MasujimaRyohei)
-- [Facebook](https://facebook.com/MasujimaRyohei)
-- [e-mail](mailto:info@example.com)
+## RomanesqueFreaks
+Twitter [@RomanesqueFreak](https://twitter.com/RomanesqueFreak)<br/>
+Website [RomanesqueFreaks](https://RomanesqueFreaks.jp)
+
+## ShibuSma
+Twitter [@shibu_sma](https://twitter.com/shibu_sma)
+
+## note.mu
+[masujimaryohei](https://note.mu/masujimaryohei)
+
+## Portfolio
+[MasujimaRyohei.jp](https://MasujimaRyohei.jp)
